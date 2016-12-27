@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 第一次搭建jekyll的github个人博客
 ---
 ## 感受
