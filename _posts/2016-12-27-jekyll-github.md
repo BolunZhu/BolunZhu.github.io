@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 第一次搭建jekyll的github个人博客
+subtitle: Each post also has a subtitle
 ---
 ## 感受
 今天闲来无事尝试了用Jekyll搭建github个人博客，发现还是蛮简单的。
